@@ -96,5 +96,3 @@
 
 #### 4.3 [Transfer Learning and Fine-tuning Convolutional Neural Networks](http://cs231n.github.io/transfer-learning/)
 
-
-
